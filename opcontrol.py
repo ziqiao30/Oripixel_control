@@ -63,6 +63,10 @@ class Mover:
         else:
             return 'Stay', targets
 
+
+
+
+
 # Example usage:
 # Define the square's four vertices in order
 square_targets = [(0, 0), (4, 0), (4, 4), (0, 4)]
